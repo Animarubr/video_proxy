@@ -29,7 +29,7 @@ To intall dependencies
 ```
 {
     url: url for the video server,
-    referer: referer of original page on video is hosted
+    ref: referer of original page on video is hosted
 }
 ```
 
