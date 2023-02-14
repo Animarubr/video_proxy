@@ -24,12 +24,12 @@ To intall dependencies
 
 ### To work correctly you need to follow these
 
-#### 1. Create a JWT token, in your main API, with the following arguments
+#### 1. Create a JWT token, in your main API, with the following parameters
 
 ```
 {
-    url: url for the video server,
-    ref: referer of original page on video is hosted
+    url: "url for the video server",
+    ref: "referer of original page on video is hosted"
 }
 ```
 
